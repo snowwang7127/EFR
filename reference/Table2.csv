@@ -1,0 +1,8 @@
+dataset,label,policy,used_A,used_B,hit_A,hit_B,delta,id_lower,id_upper
+Olist,late delivery,original_matched,3178,3178,386,409,-23,-95,7
+Olist,late delivery,pending_matched,3178,3178,386,421,-35,-78,2
+Olist,late delivery,pending_matched_to_eligible_online,3178,3178,386,421,-35,-78,-10
+DataCo,exact,original_matched,865,865,722,821,-99,-123,-74
+DataCo,exact,pending_matched,865,865,722,822,-100,-124,-72
+DataCo,recorded,original_matched,857,857,632,589,43,15,59
+DataCo,recorded,pending_matched,857,857,632,811,-179,-203,-162

@@ -1,0 +1,7 @@
+endpoint,lag_hours,policy,offered,used,full_hits,pending_hits,pending_hits_per_100_offered
+exact,8,entry,735,731,661,661,89.9
+exact,8,rolling,735,735,675,650,88.4
+exact,8,midnight,735,735,692,537,73.1
+recorded,8,entry,735,728,430,430,58.5
+recorded,8,rolling,735,735,440,440,59.9
+recorded,8,midnight,735,735,550,550,74.8

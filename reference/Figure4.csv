@@ -1,0 +1,15 @@
+endpoint,change,mode,orders,hits,unknown
+exact,Removed,Same Day,258,242,16
+exact,Retained,First Class,304,293,11
+exact,Retained,Same Day,300,285,15
+exact,Retained,Second Class,3,1,1
+exact,Added,First Class,227,216,11
+exact,Added,Same Day,21,19,2
+exact,Added,Second Class,10,8,0
+recorded,Removed,Same Day,235,0,14
+recorded,Retained,First Class,300,286,14
+recorded,Retained,Same Day,319,301,18
+recorded,Retained,Second Class,3,2,0
+recorded,Added,First Class,224,215,9
+recorded,Added,Same Day,1,1,0
+recorded,Added,Second Class,10,6,0

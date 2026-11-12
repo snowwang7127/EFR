@@ -1,0 +1,7 @@
+fit,evaluated,model,policy,used_A,used_B,hit_A,hit_B,delta,id_lower,id_upper
+exact,exact,LR,original_matched,865,865,722,821,-99,-123,-74
+exact,recorded,LR,original_matched,865,865,573,579,-6,-30,19
+recorded,recorded,LR,original_matched,857,857,632,589,43,15,59
+recorded,recorded,LR,pending_matched,857,857,632,811,-179,-203,-162
+recorded,recorded,Lookup,original_matched,872,872,786,822,-36,-69,-19
+recorded,recorded,Lookup,pending_matched,872,872,786,822,-36,-69,-19

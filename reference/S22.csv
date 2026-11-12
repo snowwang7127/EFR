@@ -1,0 +1,5 @@
+endpoint,scope,denominator,confirmed_yes,unknown,lower_pct,upper_pct
+any_dispatch,complete_orders,75104,6763,0,9.0048466127,9.0048466127
+any_dispatch,eligible_including_missing,85089,6802,9946,7.99398277098,19.6829202365
+all_recorded_lines_dispatched,complete_orders,75104,6735,0,8.96756497657,8.96756497657
+all_recorded_lines_dispatched,eligible_including_missing,85089,6735,9888,7.91524168811,19.5360152311
