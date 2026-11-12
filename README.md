@@ -1,4 +1,4 @@
-# Immediate versus Midnight Screening for E-commerce Fulfillment Risk under Daily Capacity Limits
+# Screen Now or Wait Until Midnight? Evaluating Risk-Based Order Screening under Daily Capacity Limits
 
 Reproduce the core results of manuscript v1.1.1 from fitted weights or refit its models on the original historical windows. The release contains the prepared training and evaluation records, reference tables and the order-level replay. All computations run locally on CPU.
 

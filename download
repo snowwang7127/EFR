@@ -1,0 +1,2 @@
+# Preserve the exact bytes in the release checksum manifest across platforms.
+* -text
